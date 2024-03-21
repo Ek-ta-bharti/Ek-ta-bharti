@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **FYP_home**
 
-- 🌱 I’m currently learning **AWS & GCP**
+- 🌱 I’m currently learning ** GCP & DevOps Tools**
 
-- 💬 Ask me about **HTML, CSS, JS, BASIC JAVA**
+- 💬 Ask me about ** AWS , HTML, CSS, JS, BASIC JAVA**
 
 - 📫 How to reach me **ektabharti235@gmail.com**
 
