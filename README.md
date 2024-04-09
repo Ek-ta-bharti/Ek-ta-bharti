@@ -1,17 +1,23 @@
+<h1 align="center">Hi 👋, I'm Ekta Bharti</h1>
+<h3 align="center">AWS | Docker | Linux | Git | Passionate about Learning Skills</h3>
 
- <h1 align="center">Hi 👋, I'm Ekta Bharti</h1>
-<h3 align="center">AWS |Docker | Linux | Git | Passionate about Learning Skills</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
+<p align="center">
+  <img alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="ek-ta-bharti" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="ek-ta-bharti" />
+</p>
 
 - 🔭 I’m currently working on **FYP_home**
 
-- 🌱 I’m currently learning ** GCP & DevOps Tools**
+- 🌱 I’m currently learning **GCP & DevOps Tools**
 
-- 💬 Ask me about ** AWS , HTML, CSS, JS, BASIC JAVA**
+- 💬 Ask me about **AWS, HTML, CSS, JS, BASIC JAVA**
 
-- 📫 How to reach me **ektabharti235@gmail.com**
+- 📫 How to reach me: **[ektabharti235@gmail.com](mailto:ektabharti235@gmail.com)**
+
+
 
 
 
@@ -25,24 +31,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" id="trophy-link" style="text-decoration: none; position: relative; display: inline-block;">
-        <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" id="trophy-image" alt="ek-ta-bharti" style="border-radius: 5px; border: 4px solid #007bff;">
-    </a>
-</p>
-
-<script>
-    setInterval(function() {
-        var trophyImage = document.getElementById('trophy-image');
-        var currentBorderColor = trophyImage.style.borderColor;
-
-        if (currentBorderColor === 'rgb(0, 123, 255)') {
-            trophyImage.style.borderColor = '#000000'; // Change border color to black
-        } else {
-            trophyImage.style.borderColor = '#007bff'; // Change border color to blue
-        }
-    }, 3000); // Change color every 3 seconds (3000 milliseconds)
-</script>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" alt="ek-ta-bharti" /></a> </p>
 
 
 
