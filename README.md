@@ -26,10 +26,24 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none; position: relative; display: inline-block;">
-        <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" alt="ek-ta-bharti" style="border-radius: 5px; border: 4px solid #007bff;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" id="trophy-link" style="text-decoration: none; position: relative; display: inline-block;">
+        <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" id="trophy-image" alt="ek-ta-bharti" style="border-radius: 5px; border: 4px solid #007bff;">
     </a>
 </p>
+
+<script>
+    setInterval(function() {
+        var trophyImage = document.getElementById('trophy-image');
+        var currentBorderColor = trophyImage.style.borderColor;
+
+        if (currentBorderColor === 'rgb(0, 123, 255)') {
+            trophyImage.style.borderColor = '#000000'; // Change border color to black
+        } else {
+            trophyImage.style.borderColor = '#007bff'; // Change border color to blue
+        }
+    }, 3000); // Change color every 3 seconds (3000 milliseconds)
+</script>
+
 
 
 <img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
