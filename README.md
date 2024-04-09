@@ -25,7 +25,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" alt="ek-ta-bharti" style="filter: grayscale(0) invert(0) sepia(0) saturate(0) hue-rotate(0deg);"/> </a> </p>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
+        <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" alt="ek-ta-bharti" style="border: 2px solid #007bff; border-radius: 5px; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);">
+    </a> 
+</p>
+
 
 
 <img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
