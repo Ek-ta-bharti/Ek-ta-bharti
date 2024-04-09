@@ -27,8 +27,7 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none; position: relative; display: inline-block;">
-        <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" alt="ek-ta-bharti" style="border-radius: 5px;">
-        <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 123, 255, 0.5); border-radius: 5px;"></div>
+        <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" alt="ek-ta-bharti" style="border-radius: 5px; border: 4px solid #007bff;">
     </a>
 </p>
 
