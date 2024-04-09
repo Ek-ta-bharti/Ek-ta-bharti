@@ -37,10 +37,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" alt="ek-ta-bharti" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=blue" alt="ek-ta-bharti's GitHub Trophies" />
   </a>
 </p>
+
 
 
 
