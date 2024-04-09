@@ -25,11 +25,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left" style="background-color: blue;"> 
+<p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" alt="ek-ta-bharti" />
-    </a> 
+        <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti" alt="ek-ta-bharti" style="background-color: blue;" />
+    </a>
 </p>
+
 
 
 
