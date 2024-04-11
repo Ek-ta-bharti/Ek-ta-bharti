@@ -9,7 +9,7 @@
 </div>
 <br>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="ek-ta-bharti" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="ek-ta-bharti" /> </p>
 <hr>
 
 ## About me
