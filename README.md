@@ -4,6 +4,11 @@
     </div>
     <div style="flex-grow: 2;">
         <h1><strong><span style="font-size: 94px !important;">☁️ Hi there</span></strong><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
+                <style>
+            hr {
+                display: none; /* This hides the horizontal line */
+            }
+        </style>
         <hr>
         <p><b><em>My Name is Ekta Bharti  |  I am a B.Tech CSE Student  |  Specialization in Cloud Computing and Information Technology  |  Interest in Full Stack Development</em></b></p>
     </div>
