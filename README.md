@@ -4,18 +4,8 @@
 </div>
 <h3>My Name is Ekta Bharti | I am a B.Tech CSE Student | Specialization in Cloud Computing and Information Technology | Interest in Full Stack Development</h3>
 </div>
-
-<div style="display: flex;">
-<div style="flex-grow: 2;">
-<h1>☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
 <hr>
-<h3>My Name is Ekta Bharti | I am a B.Tech CSE Student | Specialization in Cloud Computing and Information Technology | Interest in Full Stack Development</h3>
-</div>
-</div>
-
-
-
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
 
 ## About me
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
