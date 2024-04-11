@@ -1,7 +1,9 @@
-## Ekta Bharti
-
-<h1 align="center">Hi 👋, I'm Ekta Bharti</h1>
-<h3 align="center">AWS |Docker | Linux | Git | Passionate about Learning Skills</h3>
+### ☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> 
+<hr>
+<h1>I'm Ekta Bharti</h1>
+I am a B.Tech CSE Student
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+## About me
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="ek-ta-bharti" /> </p>
