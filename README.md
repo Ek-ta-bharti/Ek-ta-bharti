@@ -5,7 +5,7 @@
     <div style="flex-grow: 2;">
         <p><strong>☁️ Hi there </strong> <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></p>
         <hr>
-        <p><br>My Name is Ekta Bharti | I am a B.Tech CSE Student | Specialization in Cloud Computing and Information Technology | Interest in Full Stack Development</br></p>
+        <p><b><em>My Name is Ekta Bharti  |  I am a B.Tech CSE Student  |  Specialization in Cloud Computing and Information Technology  |  Interest in Full Stack Development</em>em></b></p>
     </div>
 </div>
 
