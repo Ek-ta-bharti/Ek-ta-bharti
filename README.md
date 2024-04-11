@@ -1,12 +1,13 @@
 <div style="display: flex;">
-    <div style="flex-grow: 1; align-self: flex-start;">
-        <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-    </div>
     <div style="flex-grow: 2;">
         <h1><strong><span style="font-size: 94px !important;">☁️ Hi there</span></strong><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
         <p><b><em>My Name is Ekta Bharti  |  I am a B.Tech CSE Student  |  Specialization in Cloud Computing and Information Technology  |  Interest in Full Stack Development</em></b></p>
     </div>
+    <div style="flex-grow: 1;">
+        <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+    </div>
 </div>
+
 
 
 ## About me
