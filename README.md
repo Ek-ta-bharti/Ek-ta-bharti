@@ -11,7 +11,7 @@
 </div>
 <br>
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <div style="margin: 5px;">
+  <div style="margin: 10px;">
     <a href="https://github.com/ek-ta-bharti">
       <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=FFFF00&style=flat" alt="ek-ta-bharti" /> 
     </a>
