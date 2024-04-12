@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/LeetCode-Follow-yellow?style=social&logo=leetcode" alt="LeetCode" />
 </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a">
-  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Visit my Google Cloud Skills Boost profile 1</button>
+  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Cloud Skills</button>
 </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95">
-  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Visit my Google Cloud Skills Boost profile 2</button>
+  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Cloud Skills</button>
 </a>
   </div>
 </div>
