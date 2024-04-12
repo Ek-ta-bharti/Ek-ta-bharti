@@ -1,3 +1,29 @@
+# GitHub Contributions Calendar
+
+Enter your GitHub username below to generate your contributions calendar:
+
+<input type="text" id="username" placeholder="Enter your GitHub username">
+<button onclick="generateCalendar()">Generate Calendar</button>
+<div id="calendar"></div>
+
+<script>
+    function generateCalendar() {
+        var username = document.getElementById('username').value;
+        var url = 'https://ghchart.rshah.org/' + username;
+
+        // Create an image element and set its src attribute to the generated calendar URL
+        var img = document.createElement('img');
+        img.src = url;
+
+        // Clear any previous calendar and append the new one
+        var calendarDiv = document.getElementById('calendar');
+        calendarDiv.innerHTML = '';
+        calendarDiv.appendChild(img);
+    }
+</script>
+
+
+
 #####   <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
 <div style="display: flex;">
 <div style="flex-grow: 1;">
