@@ -10,14 +10,12 @@
 </div>
 </div>
 <br>
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: center;">
   <div style="margin: 5px;">
     <a href="https://github.com/ek-ta-bharti">
       <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=FFFF00&style=flat" alt="ek-ta-bharti" /> 
     </a>
-  </div>
-  <div style="margin: 5px;">
-    <a href="https://github.com/Ek-ta-bharti?tab=followers">
+        <a href="https://github.com/Ek-ta-bharti?tab=followers">
       <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="ek-ta-bharti" /> 
     </a>
   </div>
