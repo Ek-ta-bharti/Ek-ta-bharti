@@ -1,5 +1,6 @@
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 ![Ek-ta-bharti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&theme=radical&show_icons=true)
+![Ek-ta-bharti's GitHub stats](https://github.com/Ek-ta-bharti/happy.git)
 
 ![Ek-ta-bharti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&theme=radical&show_icons=true) ![Ek-ta-bharti's Isometric Contributions](https://github.com/Ek-ta-bharti/Ek-ta-bharti/blob/master/metrics.plugin.isocalendar.svg)
 
