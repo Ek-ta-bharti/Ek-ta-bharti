@@ -23,6 +23,9 @@
     <a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube" /> 
     </a>
+    <a href="https://www.linkedin.com/in/ekta-bharti-602369196/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
+    </a>
     <a href="https://medium.com/@ektabharti235">
       <img src="https://img.shields.io/badge/Medium-Follow-blue?style=social&logo=medium" alt="Medium" />
     </a>
