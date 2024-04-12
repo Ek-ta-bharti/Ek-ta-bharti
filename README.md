@@ -10,12 +10,17 @@
 </div>
 <br>
 <hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="ek-ta-bharti" /> </p>
-<p align="center"> <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&style=social" alt="ek-ta-bharti" /> </p>
-[![GitHub Follow Badge](https://img.shields.io/github/followers/ek-ta-bharti?label=follow&style=social)](https://github.com/Ek-ta-bharti)
-[![GitHub Follow Badge](https://img.shields.io/github/followers/ek-ta-bharti?label=follow&style=social)](https://github.com/Ek-ta-bharti)
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="ek-ta-bharti" /> 
+</p>
+<p align="center"> 
+  <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&style=social" alt="ek-ta-bharti" /> 
+</p>
+<p align="center"> 
+  [![GitHub Follow Badge](https://img.shields.io/github/followers/ek-ta-bharti?label=follow&style=social)](https://github.com/Ek-ta-bharti)
+</p>
 <hr>
+
 
 ## About me
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
