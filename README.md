@@ -1,5 +1,10 @@
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 
+
+[![Ek-ta-bharti's GitHub Contributions](https://github.com/Ek-ta-bharti)](https://github.com/ek-ta-bharti)
+
+![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical)
+  
 #####   <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
 <div style="display: flex;">
 <div style="flex-grow: 1;">
