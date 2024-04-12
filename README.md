@@ -18,8 +18,8 @@
         <a href="https://github.com/Ek-ta-bharti?tab=followers">
       <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="ek-ta-bharti" /> 
     </a>
-<a href="https://www.youtube.com/user/Ektabharti_183">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCVZ9XZTW1v2ajmYczNMXAhg?label=Subscribers&style=social" alt="YouTube Channel Subscribers" /> 
+<a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube" /> 
 </a>
   </div>
 </div>
