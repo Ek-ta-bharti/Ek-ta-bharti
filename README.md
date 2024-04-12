@@ -10,17 +10,18 @@
 </div>
 </div>
 <br>
-<hr>
-<p align="center"> 
-  <a href="https://github.com/ek-ta-bharti">
-    <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=FFFF00&style=flat" alt="ek-ta-bharti" /> 
-  </a>
-</p>
-<p align="center"> 
-  <a href="https://github.com/Ek-ta-bharti?tab=followers">
-    <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=FFFF00&style=social" alt="ek-ta-bharti" /> 
-  </a>
-</p>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="margin: 5px;">
+    <a href="https://github.com/ek-ta-bharti">
+      <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=FFFF00&style=flat" alt="ek-ta-bharti" /> 
+    </a>
+  </div>
+  <div style="margin: 5px;">
+    <a href="https://github.com/Ek-ta-bharti?tab=followers">
+      <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="ek-ta-bharti" /> 
+    </a>
+  </div>
+</div>
 
 <hr>
 ## About me
