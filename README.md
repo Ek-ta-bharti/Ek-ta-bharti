@@ -1,6 +1,5 @@
 
-
-[Click here to view Contributions Calendar](https://ek-ta-bharti.github.io/Doc-Githuub/)
+[![Contributions Calendar](https://github.com/Ek-ta-bharti/Doc-Githuub/blob/master/images/calendar.png)](https://github.com/Ek-ta-bharti/Doc-Githuub/blob/master/images/calendar.png)
 
 
 #####   <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
