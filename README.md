@@ -1,6 +1,6 @@
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)   [![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&theme=green&show_icons=true)](https://github.com/Ek-ta-bharti)
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai)](https://github.com/Ek-ta-bharti)
 
 [![Ek-ta-bharti's GitHub Contributions](https://github.com/Ek-ta-bharti)](https://github.com/ek-ta-bharti)
 
