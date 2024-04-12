@@ -21,6 +21,23 @@
 <a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube" /> 
 </a>
+    <a href="https://www.instagram.com/ekta_bharti_._/">
+  <img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="Instagram" style="width: 30px; height: 30px;" />
+</a>
+<a href="https://medium.com/@ektabharti235">
+  <img src="https://img.shields.io/badge/Medium-Follow-blue?style=social&logo=medium" alt="Medium" />
+<a href="https://leetcode.com/Ekta_Bharti/">
+  <img src="https://img.shields.io/badge/LeetCode-Follow-yellow?style=social&logo=leetcode" alt="LeetCode" />
+</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a">
+  <img src="https://image.flaticon.com/icons/png/512/1362/1362461.png" alt="Google Cloud Skills Boost" style="width: 30px; height: 30px;" />
+  Visit my Google Cloud Skills Boost profile 1
+</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95">
+  <img src="https://image.flaticon.com/icons/png/512/1362/1362461.png" alt="Google Cloud Skills Boost" style="width: 30px; height: 30px;" />
+  Visit my Google Cloud Skills Boost profile 2
+</a>
+
   </div>
 </div>
 
