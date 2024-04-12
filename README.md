@@ -26,6 +26,30 @@
 
 <hr>
 
+<div align="center">
+  <img align="left" width="390" alt="Contribution Calendar" src="https://github.com/ek-ta-bharti.atom">
+  <a href="https://www.youtube.com/watch?v=PqXPW0oBKgg">
+    <img align="right" width="150" alt="Placeholder" src="https://count.getloli.com/get/@:ek-ta-bharti?theme=rule34">
+  </a>
+  <img align="right" width="390" alt="Placeholder" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/medias.svg?p">
+  <img align="right" width="390" height="31" alt="Placeholder" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">
+</div>
+<div align="center">
+  <a href="https://github.com/sponsors/ek-ta-bharti">
+    <img align="left" width="390" alt="Placeholder" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/sponsors.svg">
+  </a>
+  <img align="right" width="390" alt="Placeholder" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">
+</div>
+<div width="100%" align="center">
+  <img width="100%" height="1" alt="Placeholder" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">
+</div>
+<div align="center">
+  <img align="left" width="390" alt="Placeholder" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/splatoon.svg">
+  <img align="right" width="390" alt="Placeholder" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">
+</div>
+<div width="100%" align="center">
+  <img width="100%" height="1" alt="Placeholder" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg">
+</div>
 
 
 
