@@ -1,13 +1,3 @@
-
-
-![Isometric Contributions](link-to-your-isometric-contribution-graph.png)
-
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai)](https://github.com/Ek-ta-bharti)
-
-[![Ek-ta-bharti's GitHub Contributions](https://github.com/Ek-ta-bharti)](https://github.com/ek-ta-bharti)
-
-![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical)
-  
 #####   <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
 <div style="display: flex;">
 <div style="flex-grow: 1;">
@@ -96,6 +86,12 @@
 
 
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+
+
+
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai)](https://github.com/Ek-ta-bharti)
+
+![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical)
 
 <!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
 <!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
