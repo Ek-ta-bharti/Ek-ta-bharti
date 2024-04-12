@@ -1,6 +1,6 @@
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)   [![Ek-ta-bharti's GitHub Contribution Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ek-ta-bharti)](https://github.com/Ek-ta-bharti)
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)   [![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&show_icons=true&theme=radical)](https://github.com/Ek-ta-bharti)
 
 
 [![Ek-ta-bharti's GitHub Contributions](https://github.com/Ek-ta-bharti)](https://github.com/ek-ta-bharti)
