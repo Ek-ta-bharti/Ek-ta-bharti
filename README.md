@@ -21,7 +21,7 @@
     <a href="https://github.com/Ek-ta-bharti?tab=followers">
       <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="ek-ta-bharti" /> 
     </a>
-    <span style="margin: 0 5px;"></span> <!-- Added spacing -->
+    <span style="margin: 0 55px;"></span> <!-- Added spacing -->
     <a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube" /> 
     </a>
