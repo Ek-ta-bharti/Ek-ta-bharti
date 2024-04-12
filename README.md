@@ -34,9 +34,9 @@
     </a>
   </div>
   <div style="margin: 5px;">
-    <a href="https://www.youtube.com/@Ektabharti_183">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCkYlJphLsk4cu6DPlnZZ6LA?label=&color=FF0000&logo=youtube&logoColor=FFFFFF&style=social" alt="YouTube" /> 
-    </a>
+<a href="https://www.youtube.com/@Ektabharti_183">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCkYlJphLsk4cu6DPlnZZ6LA?label=YouTube&color=FF0000&style=social" alt="YouTube" /> 
+</a>
   </div>
 </div>
 
