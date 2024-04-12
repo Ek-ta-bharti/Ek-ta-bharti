@@ -18,25 +18,9 @@
         <a href="https://github.com/Ek-ta-bharti?tab=followers">
       <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="ek-ta-bharti" /> 
     </a>
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center;">
-  <div style="margin: 5px;">
-    <a href="https://github.com/ek-ta-bharti">
-      <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=FFFF00&style=flat" alt="ek-ta-bharti" /> 
+    <a href="https://www.youtube.com/@Ektabharti_183">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCkYlJphLsk4cu6DPlnZZ6LA?label=YouTube%20Subscribers&color=FF0000&style=social" alt="YouTube Subscribers" /> 
     </a>
-  </div>
-  <div style="margin: 5px;">
-    <a href="https://github.com/Ek-ta-bharti?tab=followers">
-      <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="ek-ta-bharti" /> 
-    </a>
-  </div>
-  <div style="margin: 5px;">
-<a href="https://www.youtube.com/@Ektabharti_183">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCkYlJphLsk4cu6DPlnZZ6LA?label=YouTube&color=FF0000&style=social" alt="YouTube" /> 
-</a>
   </div>
 </div>
 
