@@ -21,19 +21,18 @@
 <a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube" /> 
 </a>
-    <a href="https://www.instagram.com/ekta_bharti_._/">
-  <img src="https://image.flaticon.com/icons/png/512/174/174855.png" alt="Instagram" " />
-</a>
 <a href="https://medium.com/@ektabharti235">
   <img src="https://img.shields.io/badge/Medium-Follow-blue?style=social&logo=medium" alt="Medium" />
 <a href="https://leetcode.com/Ekta_Bharti/">
   <img src="https://img.shields.io/badge/LeetCode-Follow-yellow?style=social&logo=leetcode" alt="LeetCode" />
 </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a">
-  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Cloud Skills</button>
+  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Google Cloud Skills Boost profile 1</button>
 </a>
+
+  
 <a href="https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95">
-  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Cloud Skills</button>
+  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Google Cloud Skills Boost profile 2</button>
 </a>
   </div>
 </div>
