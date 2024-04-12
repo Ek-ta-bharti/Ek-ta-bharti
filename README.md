@@ -11,6 +11,7 @@
 <br>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="ek-ta-bharti" /> </p>
+[![GitHub Follow Badge](https://img.shields.io/github/followers/DevOps-Emre?label=follow&style=social)](https://github.com/DevOps-Emre)
 <hr>
 
 ## About me
