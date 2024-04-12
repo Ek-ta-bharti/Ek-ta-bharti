@@ -1,11 +1,3 @@
-![Contributions Calendar](https://github.com/Ek-ta-bharti/Doc-Githuub.git)
-![Ek-ta-bharti's GitHub Contributions](link-to-your-svg-file)
-
-![Ek-ta-bharti's GitHub Contributions](https://github.com/Ek-ta-bharti/Ek-ta-bharti/raw/main/metrics.svg)
-<!--START_SECTION:isocalendar-->
-<!--END_SECTION:isocalendar-->
-
-
 #####   <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
 <div style="display: flex;">
 <div style="flex-grow: 1;">
@@ -19,8 +11,6 @@
 <br>
 <hr>
 <hr>
-<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/ek-ta-bharti/your-gist-id/raw/contribution_calendar.json" alt="Contribution Calendar">
-
 <p align="center"> 
   <a href="https://github.com/ek-ta-bharti">
     <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=FFFF00&style=flat" alt="ek-ta-bharti" /> 
@@ -33,13 +23,6 @@
 </p>
 
 <hr>
-
-<iframe src="https://github.com/users/ek-ta-bharti/contributions" frameborder="0" scrolling="no" width="800" height="200"></iframe>
-<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/ek-ta-bharti/your-gist-id/raw/contribution_calendar.json" alt="Contribution Calendar">
-
-
-
-
 ## About me
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
 
