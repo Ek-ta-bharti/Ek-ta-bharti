@@ -30,10 +30,10 @@
   <img src="https://img.shields.io/badge/LeetCode-Follow-yellow?style=social&logo=leetcode" alt="LeetCode" />
 </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a">
-  <img src="https://image.flaticon.com/icons/png/512/1362/1362461.png" alt="Google Cloud Skills Boost" />
+  <img src="https://image.flaticon.com/icons/png/512/1362/1362461.png" alt="Cloud Skills" />
 </a>
-<a href="https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95">
-  <img src="https://image.flaticon.com/icons/png/512/1362/1362461.png" alt="Google Cloud Skills Boost"/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95">
+  <img src="https://image.flaticon.com/icons/png/512/1362/1362461.png"  alt="Cloud Skills"/>
 </a>
 
   </div>
