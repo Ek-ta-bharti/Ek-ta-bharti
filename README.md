@@ -29,14 +29,8 @@
 <a href="https://leetcode.com/Ekta_Bharti/">
   <img src="https://img.shields.io/badge/LeetCode-Follow-yellow?style=social&logo=leetcode" alt="LeetCode" />
 </a>
-<a href="https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a">
-  <img src="https://image.flaticon.com/icons/png/512/1362/1362461.png" alt="Google Cloud Skills Boost" width="30" height="30" />
-  Visit my Google Cloud Skills Boost profile 1
-</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95">
-  <img src="https://image.flaticon.com/icons/png/512/1362/1362461.png" alt="Google Cloud Skills Boost" width="30" height="30" />
-  Visit my Google Cloud Skills Boost profile 2
-</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a">Cloud Skills profile1</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95">Cloud Skills profile2</a>
 
   </div>
 </div>
