@@ -17,23 +17,29 @@
     <a href="https://github.com/ek-ta-bharti">
       <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=FFFF00&style=flat" alt="ek-ta-bharti" /> 
     </a>
+    <span style="margin: 0 5px;"></span> <!-- Added spacing -->
     <a href="https://github.com/Ek-ta-bharti?tab=followers">
       <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="ek-ta-bharti" /> 
     </a>
+    <span style="margin: 0 5px;"></span> <!-- Added spacing -->
     <a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg">
       <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube" /> 
     </a>
+    <span style="margin: 0 5px;"></span> <!-- Added spacing -->
     <a href="https://www.linkedin.com/in/ekta-bharti-602369196/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
     </a>
+    <span style="margin: 0 5px;"></span> <!-- Added spacing -->
     <a href="https://medium.com/@ektabharti235">
       <img src="https://img.shields.io/badge/Medium-Follow-blue?style=social&logo=medium" alt="Medium" />
     </a>
+    <span style="margin: 0 5px;"></span> <!-- Added spacing -->
     <a href="https://leetcode.com/Ekta_Bharti/">
       <img src="https://img.shields.io/badge/LeetCode-Follow-yellow?style=social&logo=leetcode" alt="LeetCode" />
     </a>
   </div>
 </div>
+
 
 
 <hr>
