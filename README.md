@@ -1,44 +1,34 @@
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/@Ektabharti_183)
-#####   <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
+<h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
 <div style="display: flex;">
-<div style="flex-grow: 1;">
-<img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-</div>
-<div style="flex-grow: 2;">
-  <br>
-<h3>My Name is Ekta Bharti | I am a B.Tech CSE Student | Specialization in Cloud Computing and Information Technology | Interest in Full Stack Development</h3>
-</div>
+  <div style="flex-grow: 1;">
+    <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+  </div>
+  <div style="flex-grow: 2;">
+    <br>
+    <h3>My Name is Ekta Bharti | I am a B.Tech CSE Student | Specialization in Cloud Computing and Information Technology | Interest in Full Stack Development</h3>
+  </div>
 </div>
 <br>
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="display: flex; align-items: center;">
   <div style="margin: 10px;">
     <a href="https://github.com/ek-ta-bharti">
       <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=FFFF00&style=flat" alt="ek-ta-bharti" /> 
     </a>
-        <a href="https://github.com/Ek-ta-bharti?tab=followers">
+    <a href="https://github.com/Ek-ta-bharti?tab=followers">
       <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="ek-ta-bharti" /> 
     </a>
-<a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube" /> 
-</a>
-<a href="https://medium.com/@ektabharti235">
-  <img src="https://img.shields.io/badge/Medium-Follow-blue?style=social&logo=medium" alt="Medium" />
-<a href="https://leetcode.com/Ekta_Bharti/">
-  <img src="https://img.shields.io/badge/LeetCode-Follow-yellow?style=social&logo=leetcode" alt="LeetCode" />
-</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a">
-  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Google Cloud Skills Boost profile 1</button>
-</a>
-
-  
-<a href="https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95">
-  <button style="background-color: #f1f1f1; border: none; color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;">Google Cloud Skills Boost profile 2</button>
-</a>
+    <a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube" /> 
+    </a>
+    <a href="https://medium.com/@ektabharti235">
+      <img src="https://img.shields.io/badge/Medium-Follow-blue?style=social&logo=medium" alt="Medium" />
+    </a>
+    <a href="https://leetcode.com/Ekta_Bharti/">
+      <img src="https://img.shields.io/badge/LeetCode-Follow-yellow?style=social&logo=leetcode" alt="LeetCode" />
+    </a>
   </div>
 </div>
-
-
-
 <hr>
 ## About me
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
