@@ -26,11 +26,8 @@
 
 <hr>
 
-<div align="center">
-  <a href="https://github.com/ek-ta-bharti">
-    <img align="left" width="390" alt="Contribution Calendar" src="https://github.com/users/ek-ta-bharti/contributions">
-  </a>
-</div>
+<iframe src="https://github.com/users/ek-ta-bharti/contributions" frameborder="0" scrolling="no" width="800" height="200"></iframe>
+
 
 
 
