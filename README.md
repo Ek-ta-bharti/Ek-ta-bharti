@@ -11,7 +11,8 @@
 <br>
 <hr>
 <hr>
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+<img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/ek-ta-bharti/your-gist-id/raw/contribution_calendar.json" alt="Contribution Calendar">
+
 <p align="center"> 
   <a href="https://github.com/ek-ta-bharti">
     <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=FFFF00&style=flat" alt="ek-ta-bharti" /> 
