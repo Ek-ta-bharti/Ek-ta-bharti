@@ -19,7 +19,7 @@
       <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="ek-ta-bharti" /> 
     </a>
     <a href="https://www.youtube.com/@Ektabharti_183">
-      <img src="https://img.shields.io/youtube/channel/subscribers/UCkYlJphLsk4cu6DPlnZZ6LA?label=YouTube%20Subscribers&color=FF0000&style=social" alt="YouTube Subscribers" /> 
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCkYlJphLsk4cu6DPlnZZ6LA?username=@Ektabharti_183label=YouTube%20Subscribers&color=FF0000&style=social" alt="YouTube" /> 
     </a>
   </div>
 </div>
