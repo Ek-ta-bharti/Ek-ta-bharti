@@ -1,4 +1,4 @@
-[![Contributions Calendar](https://github.com/Ek-ta-bharti/Doc-Githuub.git)
+![Contributions Calendar](https://github.com/Ek-ta-bharti/Doc-Githuub.git)
 
 
 #####   <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
