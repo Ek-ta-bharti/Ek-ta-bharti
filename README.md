@@ -10,6 +10,8 @@
   </div>
 </div>
 <br>
+
+
 <div style="display: flex; align-items: center;">
   <div style="margin: 10px;">
     <a href="https://github.com/ek-ta-bharti">
@@ -29,6 +31,8 @@
     </a>
   </div>
 </div>
+
+
 <hr>
 ## About me
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
