@@ -49,30 +49,6 @@
   - [Profile 1](https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a)
   - [Profile 2](https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ekta-bharti-602369196" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekta-bharti-602369196" height="30" width="40" />
-</a>
-<a href="https://instagram.com/ekta_bharti_._" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekta_bharti_._" height="30" width="40" />
-</a>
-<a href="https://medium.com/@ektabharti235" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ektabharti235" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/ektabharti_183" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ektabharti_183" height="30" width="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/ektabhao4w7" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ektabhao4w7" height="30" width="40" />
-</a>
-</p>
-
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=black" alt="ek-ta-bharti's GitHub Trophies" />
