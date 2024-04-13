@@ -48,7 +48,7 @@
 - 👩‍💻 Check out my Google Cloud Skills Boost profiles:
   - [Profile 1](https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a)
   - [Profile 2](https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95)
-
+<hr>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=black" alt="ek-ta-bharti's GitHub Trophies" />
@@ -119,7 +119,7 @@
         <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
     </a>
 </p>
-
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact" alt="ek-ta-bharti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&locale=en" alt="ek-ta-bharti" /></p>
