@@ -32,23 +32,22 @@
     </a>
   </div>
 </div>
-
-
-
-
 <hr>
-## About me
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ek-ta-bharti&label=Profile%20views&color=0e75b6&style=flat" alt="ek-ta-bharti" /> </p>
+#### About me
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/a2/11/97a2116bffe0ca37b23a6524be476531.gif">
 
 - 🔭 I’m currently working on **FYP_home**
 
-- 🌱 I’m currently learning ** GCP & DevOps Tools**
+- 🌱 I’m currently learning **GCP & DevOps Tools**
 
-- 💬 Ask me about ** AWS , HTML, CSS, JS, BASIC JAVA**
+- 💬 Ask me about **AWS, HTML, CSS, JS, React, JAVA, C**
 
-- 📫 How to reach me **ektabharti235@gmail.com**
+- 📫 How to reach me: **[ektabharti235@gmail.com](mailto:ektabharti235@gmail.com)**
+
+- 👩‍💻 Check out my Google Cloud Skills Boost profiles:
+  - [Profile 1](https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a)
+  - [Profile 2](https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95)
 
 
 <h3 align="left">Connect with me:</h3>
