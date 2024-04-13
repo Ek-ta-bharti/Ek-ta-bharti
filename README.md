@@ -66,13 +66,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ek-ta-bharti&" alt="ek-ta-bharti" /></p>
 
-### Blog posts
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=blue" alt="ek-ta-bharti's GitHub Trophies" />
-  </a>
-</p>
-
 
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
