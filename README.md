@@ -128,20 +128,8 @@
 <hr>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" width="800" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" width="820" />
 </div>
-
-<div style="text-align: center;">
-    <a href="https://github.com/Ek-ta-bharti">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" />
-    </a>
-</div>
-
-<div style="display: flex; justify-content: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" />
-</div>
-
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai)](https://github.com/Ek-ta-bharti)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact" alt="ek-ta-bharti" /></p>
 
