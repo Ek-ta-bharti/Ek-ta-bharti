@@ -1,6 +1,15 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&theme=radical)](https://github.com/ek-ta-bharti)
+<div style="text-align: center;">
+  <svg width="100" height="100">
+    <!-- Draw the circle -->
+    <circle cx="50" cy="50" r="40" fill="#f0f0f0" stroke="#333" stroke-width="2" />
 
-
+    <!-- Display the language text -->
+    <text x="50" y="50" dominant-baseline="middle" text-anchor="middle" font-size="20">
+      <!-- Replace 'JavaScript' with the actual language name -->
+      JavaScript
+    </text>
+  </svg>
+</div>
 
 
 
