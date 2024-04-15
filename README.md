@@ -125,9 +125,6 @@
 <div style="display: flex; justify-content: center;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=radical" alt=" Summary Cards" width="820" />
 </div>
-
-<img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
-
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ek-ta-bharti&theme=radical" alt="ek-ta-bharti" width="420" />
@@ -135,9 +132,13 @@
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=radical" alt="ek-ta-bharti" /> </p>
 
+<img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
+
 <footer style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
 <p>&copy; 2024 Ekta Bharti. All rights reserved.</p>
 </footer>
+
+
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
