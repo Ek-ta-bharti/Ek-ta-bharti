@@ -132,7 +132,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ek-ta-bharti&theme=radical" alt="ek-ta-bharti" width="420" />
 </div>
 
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=radical" alt="ek-ta-bharti" /> </p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=radical" alt="ek-ta-bharti" /> </p>
 
 <footer style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
 <p>&copy; 2024 Ekta Bharti. All rights reserved.</p>
