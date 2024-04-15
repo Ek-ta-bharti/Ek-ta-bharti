@@ -118,8 +118,6 @@
 </a>
 </p>
 
-<img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
-
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=dracula)
 <hr>
@@ -127,6 +125,9 @@
 <div style="display: flex; justify-content: center;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=radical" alt=" Summary Cards" width="820" />
 </div>
+
+<img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
+
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ek-ta-bharti&theme=radical" alt="ek-ta-bharti" width="420" />
