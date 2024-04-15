@@ -130,6 +130,11 @@
 <div style="display: flex; justify-content: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" width="820" />
 </div>
+.........................
+
+![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=dark" alt="ek-ta-bharti" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact" alt="ek-ta-bharti" /></p>
 
@@ -144,7 +149,6 @@
 ![](./ekta.py)
 
 
-![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical)
 
 <!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
 <!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
