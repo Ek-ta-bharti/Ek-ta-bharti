@@ -126,7 +126,17 @@
     </a>
 </p>
 <hr>
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=dark" alt="ek-ta-bharti" />
+    </div>
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical" alt="Ek-ta-bharti's GitHub Stats" />
+    </div>
+</div>
 
+
+      
 <div style="display: flex; justify-content: center;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" width="820" />
 </div>
@@ -134,6 +144,8 @@
 <p><img align="right"src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=dark" alt="ek-ta-bharti" /></p>
 
 ![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical)
+
+
 
 
 ..................
