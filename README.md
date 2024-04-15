@@ -1,3 +1,11 @@
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
+</div>
+
+
+
+
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/@Ektabharti_183)
 <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
 <div style="display: flex;">
