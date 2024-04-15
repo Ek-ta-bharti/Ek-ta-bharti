@@ -131,9 +131,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" width="820" />
 </div>
 
+<p><img align="right"src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=dark" alt="ek-ta-bharti" /></p>
+
 ![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical)
 
-<p><img align="right"src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=dark" alt="ek-ta-bharti" /></p>
 
 ..................
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact" alt="ek-ta-bharti" /></p>
