@@ -49,11 +49,8 @@
   - [Profile 1](https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a)
   - [Profile 2](https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95)
 <hr>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=black" alt="ek-ta-bharti's GitHub Trophies" />
-  </a>
-</p>
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=dracula)
 
 <img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
 <hr>
@@ -142,9 +139,10 @@
 
 ![](./ekta.py)
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=dracula)
-
-
+  <div class="trophy">
+    <!-- Replace the URL with your GitHub Profile Trophy API URL -->
+    <img src="https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=dracula&row=1&column=7">
+  </div>
 <!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
 <!-- The betrayer: https://user-images.githubusercontent.com/22963968/155458995-e4c24fff-d667-48cd-a1ce-1f66cd233a14.png -->
 <!-- The world ender: https://user-images.githubusercontent.com/22963968/130322172-4e4996cd-eb3d-4013-9fc2-47e573413310.png -->
