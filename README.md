@@ -135,11 +135,11 @@
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=radical" alt="ek-ta-bharti" />
     </div>
     <div style="flex: 1;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical" alt="Ek-ta-bharti's GitHub Stats" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ek-ta-bharti&theme=radical" alt="ek-ta-bharti" />
     </div>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ek-ta-bharti&" alt="ek-ta-bharti" /></p>
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical" alt="Ek-ta-bharti's GitHub Stats" /></p>
 
 
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
