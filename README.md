@@ -1,58 +1,80 @@
-<body style="font-family: Arial, sans-serif; background-color: #f5f5f5; margin: 0; padding: 0;">
-
-<header style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
-    <h1 style="margin: 0;">EKTA BHARTI</h1>
-    <p>👩‍💻 B.Tech CSE Student | Cloud Computing Specialist | Full Stack Developer</p>
-</header>
-
-<section style="padding: 20px;">
-    <div style="display: flex; justify-content: center;">
-        <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Avatar" style="width: 200px; border-radius: 50%;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ekta Bharti's Profile</title>
+  <style>
+    /* Add your custom CSS styles here */
+    /* Animations */
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    @keyframes slideInFromLeft {
+      0% { transform: translateX(-100%); }
+      100% { transform: translateX(0); }
+    }
+    /* Other styles */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      animation: fadeIn 1s ease-in;
+    }
+    .profile-info {
+      display: flex;
+      align-items: center;
+    }
+    .profile-info img {
+      border-radius: 50%;
+      margin-right: 20px;
+      animation: slideInFromLeft 1s ease-out;
+    }
+    .profile-details {
+      flex-grow: 1;
+    }
+    .social-links {
+      margin-top: 20px;
+    }
+    .social-links a {
+      text-decoration: none;
+      margin-right: 10px;
+      transition: transform 0.3s ease-in-out;
+    }
+    .social-links a:hover {
+      transform: translateY(-3px);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="profile-info">
+      <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="150" alt="Profile Picture">
+      <div class="profile-details">
+        <h1>☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
+        <h3>My Name is Ekta Bharti | I am a B.Tech CSE Student | Specialization in Cloud Computing and Information Technology | Interest in Full Stack Development</h3>
+      </div>
     </div>
-    <br>
-    <p style="text-align: center;">🔭 Currently working on <strong>FYP_home</strong></p>
-    <p style="text-align: center;">🌱 Learning <strong>GCP & DevOps Tools</strong></p>
-    <p style="text-align: center;">💬 Ask me about <strong>AWS, HTML, CSS, JS, React, JAVA, C</strong></p>
-    <p style="text-align: center;">📫 Reach me at: <a href="mailto:ektabharti235@gmail.com">ektabharti235@gmail.com</a></p>
-</section>
-
-<section style="background-color: #333; color: #fff; padding: 20px;">
-    <h2 style="text-align: center;">CONNECT WITH ME</h2>
-    <div style="display: flex; justify-content: center;">
-        <a href="https://github.com/ek-ta-bharti" style="margin-right: 10px;">
-            <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=Follow&style=social" alt="GitHub Followers"> 
-        </a>
-        <a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg" style="margin-right: 10px;">
-            <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube Subscribers"> 
-        </a>
-        <a href="https://www.linkedin.com/in/ekta-bharti-602369196/" style="margin-right: 10px;">
-            <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"> 
-        </a>
-        <a href="https://medium.com/@ektabharti235" style="margin-right: 10px;">
-            <img src="https://img.shields.io/badge/Medium-Follow-blue?style=social&logo=medium" alt="Medium"> 
-        </a>
-        <a href="https://leetcode.com/Ekta_Bharti/" style="margin-right: 10px;">
-            <img src="https://img.shields.io/badge/LeetCode-Follow-yellow?style=social&logo=leetcode" alt="LeetCode"> 
-        </a>
+    <div class="social-links">
+      <a href="https://github.com/ek-ta-bharti">
+        <img src="https://img.shields.io/github/followers/ek-ta-bharti?label=follow&color=0000FF&style=social" alt="GitHub Followers">
+      </a>
+      <a href="https://www.youtube.com/channel/UCmQezsF1x1sCpaL7LikRzCg">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UCmQezsF1x1sCpaL7LikRzCg?label=Subscribers&style=social" alt="YouTube Subscribers">
+      </a>
+      <!-- Add more social media links here -->
     </div>
-</section>
-
-<section style="padding: 20px;">
-    <h2 style="text-align: center;">ABOUT ME</h2>
-    <p style="text-align: center;">My name is Ekta Bharti. I'm a B.Tech CSE student specializing in Cloud Computing and Information Technology. I have a keen interest in Full Stack Development.</p>
-    <p style="text-align: center;">Check out my Google Cloud Skills Boost profiles:</p>
-    <div style="display: flex; justify-content: center;">
-        <a href="https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a" style="margin-right: 10px;">
-            <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50"> 
-        </a>
-        <a href="https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95" style="margin-right: 10px;">
-            <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50"> 
-        </a>
-    </div>
-</section>
-
-<footer style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
-    <p>&copy; 2024 Ekta Bharti. All rights reserved.</p>
-</footer>
-
+    <!-- Add more sections (About Me, Skills, Projects, etc.) here -->
+  </div>
 </body>
+</html>
