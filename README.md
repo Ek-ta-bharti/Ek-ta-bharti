@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&theme=radical)](https://github.com/ek-ta-bharti)
 
 
 
