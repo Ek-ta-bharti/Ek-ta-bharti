@@ -126,6 +126,10 @@
     </a>
 </p>
 <hr>
+
+
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai)](https://github.com/Ek-ta-bharti)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact" alt="ek-ta-bharti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&locale=en" alt="ek-ta-bharti" /></p>
@@ -136,8 +140,8 @@
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
 
+![](./ekta.py)
 
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai)](https://github.com/Ek-ta-bharti)
 
 ![Ek-ta-bharti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical)
 
@@ -150,6 +154,4 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-
-![](./ekta.py)
 
