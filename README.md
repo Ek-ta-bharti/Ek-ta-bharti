@@ -133,16 +133,11 @@
 
 <p>  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ek-ta-bharti&show_icons=true&locale=en&layout=compact&theme=radical" alt="ek-ta-bharti" />  </p>
 
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/Ek-ta-bharti/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
-## My Achievements
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/Ek-ta-bharti/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](#)
 
-- **Achievement 1**: Description of Achievement 1
-- **Achievement 2**: Description of Achievement 2
-- **Achievement 3**: Description of Achievement 3
-- **Achievement 4**: Description of Achievement 4
-
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/achievements.svg">](https://github.com/Ek-ta-bharti)
 
 
 
