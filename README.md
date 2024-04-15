@@ -49,11 +49,6 @@
 - [Profile 1](https://www.cloudskillsboost.google/public_profiles/bed239f1-64fb-4990-9d85-8e1a6b963d0a)
 - [Profile 2](https://www.cloudskillsboost.google/public_profiles/be53a506-374c-4a48-b72b-d09337457e95)
 <hr>
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=dracula)
-
-<img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
-<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -122,6 +117,12 @@
 <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
 </a>
 </p>
+
+<img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
+
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=dracula)
+<hr>
 
 <div style="display: flex; justify-content: center;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=radical" alt="GitHub Profile Summary Cards" width="820" />
