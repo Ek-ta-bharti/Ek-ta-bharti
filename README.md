@@ -128,7 +128,7 @@
 <hr>
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" width="600" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" width="800" />
 </div>
 
 <div style="text-align: center;">
