@@ -127,6 +127,11 @@
 </p>
 <hr>
 
+<div style="text-align: center;">
+    <a href="https://github.com/Ek-ta-bharti">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai" alt="GitHub Profile Summary Cards" />
+    </a>
+</div>
 
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=monokai)](https://github.com/Ek-ta-bharti)
 
