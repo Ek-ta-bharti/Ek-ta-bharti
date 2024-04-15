@@ -132,10 +132,10 @@
 
 <div style="display: flex;">
     <div style="flex: 1;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical" alt="Ek-ta-bharti's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical" alt="Ek-ta-bharti's GitHub Stats" />
     </div>
     <div style="flex: 1;">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ek-ta-bharti&theme=radical" alt="ek-ta-bharti" />
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ek-ta-bharti&theme=radical" alt="ek-ta-bharti" />
     </div>
 </div>
 
