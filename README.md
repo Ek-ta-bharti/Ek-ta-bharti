@@ -1,18 +1,3 @@
-<div style="text-align: center;">
-  <svg width="100" height="100">
-    <!-- Draw the circle -->
-    <circle cx="50" cy="50" r="40" fill="#f0f0f0" stroke="#333" stroke-width="2" />
-
-    <!-- Display the language text -->
-    <text x="50" y="50" dominant-baseline="middle" text-anchor="middle" font-size="20">
-      <!-- Replace 'JavaScript' with the actual language name -->
-      JavaScript
-    </text>
-  </svg>
-</div>
-
-
-
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/@Ektabharti_183)
 <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
 <div style="display: flex;">
