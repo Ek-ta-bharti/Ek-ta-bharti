@@ -1,7 +1,8 @@
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhruvabhat24&theme=radical" alt="dhruvabhat24" />
+
+  <a href="https://github.com/Ek-ta-bharti/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=radical" alt="ektabharti" />
   </a>
 </p>
 
