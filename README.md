@@ -32,7 +32,7 @@
 </a>
 </div>
 </div>
-<br>
+<hr>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparent" width="820" />
 <hr>
 
@@ -121,7 +121,7 @@
 </p>
 
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=transparent)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=react-dark)
 
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" width="270"  />
@@ -152,10 +152,10 @@
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ek-ta-bharti&theme=transparent&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ek-ta-bharti&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
     <a href="https://wakatime.com/@Voko#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ek-ta-bharti&theme=transparent&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ek-ta-bharti&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
