@@ -1,11 +1,12 @@
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=chartreuse_dark)
 
-<p align="left"> 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=chartreuse_dark)
 
-  <a href="https://github.com/Ek-ta-bharti/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=radical" alt="ektabharti" />
-  </a>
-</p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=highcontrast)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparent)
 
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/@Ektabharti_183)
 <h1 align="center">☁️ Hi there <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"></h1>
@@ -128,15 +129,15 @@
 </p>
 
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ek-ta-bharti&theme=dracula)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=dracula)
 <hr>
 
 <div style="display: flex; justify-content: center;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=radical" alt=" Summary Cards" width="820" />
 </div>
 <div style="display: flex; justify-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api?username=ek-ta-bharti&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ek-ta-bharti&theme=radical" alt="ek-ta-bharti" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ek-ta-bharti&theme=radical" alt="ek-ta-bharti" width="420" />
 </div>
 
 <div style="display: flex; justify-content: center;">
