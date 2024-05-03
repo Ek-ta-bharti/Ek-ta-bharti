@@ -1,9 +1,4 @@
 
-
-
-<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-
-
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
