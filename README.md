@@ -121,7 +121,7 @@
 </p>
 
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=dracula)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=transparent)
 <hr>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparentwidth="820" )
@@ -130,12 +130,12 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&show_icons=true&theme=transparent" alt="GitHub Stats" width="420" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ek-ta-bharti&theme=radical" alt="ek-ta-bharti" width="420" />
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" />
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ek-ta-bharti&theme=transparent)
