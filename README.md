@@ -146,12 +146,6 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ek-ta-bharti&theme=transparent&utcOffset=8" alt="GitHub Stats" width="420" />
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ek-ta-bharti&theme=transparent)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ek-ta-bharti&theme=transparent&utcOffset=8)
-
-
 <img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
 
 <footer style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
