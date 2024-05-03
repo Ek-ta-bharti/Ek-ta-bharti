@@ -136,12 +136,15 @@
 
 
 <div style="display: flex; justify-content: space-between;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" width="270"  />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ek-ta-bharti&theme=transparent" alt="GitHub Stats" width="270" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ek-ta-bharti&theme=transparent" alt="ek-ta-bharti" width="270" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" width="270"  />
 </div>
 
-
+<div style="display: flex; justify-content: space-between;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ek-ta-bharti&theme=transparent" alt="Top Languages" width="420"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ek-ta-bharti&theme=transparent&utcOffset=8" alt="GitHub Stats" width="420" />
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ek-ta-bharti&theme=transparent)
 
