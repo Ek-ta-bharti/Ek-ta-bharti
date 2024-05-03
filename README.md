@@ -32,7 +32,7 @@
 </a>
 </div>
 </div>
-
+<br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparent" width="820" />
 <hr>
 
@@ -149,17 +149,13 @@
 <img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
 
 
-
-<a href="https://play.kotlinlang.org"><img src="./assets/colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-
-
 <!-- activity graph heroku-app start -->
 <p align="center">
     <a href="https://wakatime.com/@Voko#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ek-ta-bharti&theme=transparent&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
     <a href="https://wakatime.com/@Voko#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksey-Voko&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ek-ta-bharti&theme=transparent&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 <!-- activity graph heroku-app end -->
