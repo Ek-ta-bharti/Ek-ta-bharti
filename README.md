@@ -137,6 +137,15 @@
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=radical" alt="Top Languages" />
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ek-ta-bharti&theme=transparent)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ek-ta-bharti&theme=transparent&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ek-ta-bharti&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ek-ta-bharti&theme=transparent)
 <img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
 
 <footer style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
