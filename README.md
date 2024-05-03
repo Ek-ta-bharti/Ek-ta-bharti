@@ -131,8 +131,22 @@
 
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&show_icons=true&theme=transparent" alt="GitHub Stats" width="420" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ek-ta-bharti&theme=radical" alt="ek-ta-bharti" width="420" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ek-ta-bharti&theme=transparent" alt="ek-ta-bharti" width="420" />
 </div>
+===================
+
+
+<div style="display: flex; justify-content: space-between;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ek-ta-bharti&theme=transparent" alt="GitHub Stats" width="320" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ek-ta-bharti&theme=transparent" alt="ek-ta-bharti" width="320" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" width="320"  />
+</div>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ek-ta-bharti&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ek-ta-bharti&theme=transparent)
+
+==========
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" />
@@ -143,9 +157,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ek-ta-bharti&theme=transparent&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ek-ta-bharti&theme=transparent)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ek-ta-bharti&theme=transparent)
 <img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
 
 <footer style="background-color: #333; color: #fff; text-align: center; padding: 20px;">
