@@ -126,6 +126,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparentwidth="820" )
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparent" width="820" />
+
+
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&show_icons=true&theme=radical" alt="GitHub Stats" width="420" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ek-ta-bharti&theme=radical" alt="ek-ta-bharti" width="420" />
