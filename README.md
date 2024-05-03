@@ -32,6 +32,8 @@
 </a>
 </div>
 </div>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparent" width="820" />
 <hr>
 
 #### About me
@@ -120,19 +122,18 @@
 
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=transparent)
-<hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparentwidth="820" )
-
-<hr>
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" width="270"  />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ek-ta-bharti&theme=transparent" alt="GitHub Stats" width="270" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ek-ta-bharti&theme=transparent" alt="ek-ta-bharti" width="270" />
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparent" width="820" />
+<hr>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparentwidth="820" )
+
+<hr>
 
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&show_icons=true&theme=transparent" alt="GitHub Stats" width="420" />
