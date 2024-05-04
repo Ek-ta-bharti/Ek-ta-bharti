@@ -136,8 +136,8 @@
 <hr>
 
 <div style="display: flex; justify-content: space-between;">
-<img src="https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&show_icons=true&theme=transparent" alt="GitHub Stats" width="420" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ek-ta-bharti&theme=transparent" alt="ek-ta-bharti" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ek-ta-bharti&show_icons=true&theme=transparent" alt="GitHub Stats" width="410" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ek-ta-bharti&theme=transparent" alt="ek-ta-bharti" width="410" />
 </div>
 
 
