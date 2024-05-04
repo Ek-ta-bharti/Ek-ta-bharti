@@ -123,6 +123,9 @@
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=react-dark)
 
+<hr>
+<hr>
+
 <div style="display: flex; justify-content: space-between;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ek-ta-bharti&layout=compact&langs_count=10&theme=transparent" alt="Top Languages" width="270"  />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ek-ta-bharti&theme=transparent" alt="GitHub Stats" width="270" />
@@ -130,9 +133,6 @@
 </div>
 
 <hr>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ek-ta-bharti&theme=transparentwidth="820" )
-
 <hr>
 
 <div style="display: flex; justify-content: space-between;">
