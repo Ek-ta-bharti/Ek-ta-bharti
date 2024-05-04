@@ -142,8 +142,8 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ek-ta-bharti&theme=transparent" alt="Top Languages" width="420"  />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ek-ta-bharti&theme=transparent&utcOffset=8" alt="GitHub Stats" width="420" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ek-ta-bharti&theme=transparent" alt="Top Languages" width="410"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ek-ta-bharti&theme=transparent&utcOffset=8" alt="GitHub Stats" width="410" />
 </div>
 
 <img alt="Coding" src="https://thecloudlegion.com/images/devops.gif">
