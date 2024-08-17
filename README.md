@@ -4,6 +4,8 @@
 <div style="flex-grow: 1;">
 <img align='left' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 </div>
+
+
 <div style="flex-grow: 2;">
 <br>
 <h3>My Name is Ekta Bharti | I am a B.Tech CSE Student | Specialization in Cloud Computing and Information Technology | Interest in Full Stack Development</h3>
@@ -121,7 +123,8 @@
 </p>
 
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=react-dark)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ek-ta-bharti&theme=onedark" alt="Ek-ta-bharti" /></a> </p>
+
 
 <hr>
 <hr>
